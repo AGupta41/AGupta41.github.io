@@ -1,0 +1,35 @@
+title: "Home"
+author: "Akshita Gupta"
+description: "Purdue Univesity"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+show_excerpts: true      # show article excerpts on the home page
+show_frame: false        # adds a gray frame to the site
+show_sidebar: false     # show a sidebar instead of the usual header
+minimal: false           # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  #- {file: "myindex.html",title: "Projects"}
+  #- {url: "/Burla_Ondes_s_CV_2023.pdf",title: "CV"}
+  #- {file: "README1.md",title: "Personal"}
+
+
+  
+
+#external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+#  - {title: Mail, icon: envelope, url: "mailto:bondes@purdue.edu"}
+#  - {title: Github, icon: github, url: "https://github.com/BurlaOndes"}
+#  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/burlaondes"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
