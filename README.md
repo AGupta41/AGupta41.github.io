@@ -1,11 +1,15 @@
 # Akshita Gupta
+
+[Education](#EDUCATION)     [Publications](#PUBLICATION)     [Talks](#TALKS-AND-POSTERS)
+
 ## EDUCATION
-* Ph.D. in Industrial Engineering (Operations Research), Purdue University
+Ph.D. in Industrial Engineering (Operations Research), Purdue University
 
   Expected Graduation: May 2026
 * M.S. in Applied Mathematics, Purdue University
 * M.S. in Aeronautical and Astronautical Engineering, Purdue University, 2019
 * B.Tech in Computer Science and Engineering, West Bengal University of Technology, 2017
+
 
 ## PUBLICATIONS
 [8] [Extending μP: Spectral Conditions for Feature Learning Across Optimizers](https://opt-ml.org/papers/2025/paper123.pdf). Gupta, A., Ngom, M., Foreman, S. and Vishwanath, V., 2025; *OPT 2025: Optimization for Machine Learning*.
@@ -27,19 +31,32 @@
 ## TALKS AND POSTERS
 
 * **Properties of Two-Stage Stochastic Multi-Objective Linear Program**
+
 	* 2025 Winter Simulation Conference, Ph.D. Colloquium, Seattle, Washington
-    * 2025 INFORMS Annual Meeting, Atlanta, Georgia 
-	* (Poster) 2025 Young Researchers Workshop, School of Operations Research and Information Engineering, Cornell University, New York
-  	* 2025 Applied Mathematical Society (AMS) Spring Southeastern Sectional Meeting, Clemson University, South Carolina
-	* 2024 Industrial Engineering Graduate Student Organization (IEGSO) Student Research Showcase, Purdue University, Indiana
- 	* 2024 Informs Annual Meeting, Seattle, Washington
-  	* 2024 Informs Optimization Society (IOS) Conference, Houston, Texas
-  	* (Poster) 2023 Air Force Office of Scientific Research (AFOSR) Poster Session, Purdue University, Indiana
+    
+	* 2025 INFORMS Annual Meeting, Atlanta, Georgia 
+
+  	* (Poster) 2025 Young Researchers Workshop, School of Operations Research and Information Engineering, Cornell University, New York
+  	
+	* 2025 Applied Mathematical Society (AMS) Spring Southeastern Sectional Meeting, Clemson University, South Carolina
+
+  	* 2024 Industrial Engineering Graduate Student Organization (IEGSO) Student Research Showcase, Purdue University, Indiana
+
+  	* 2024 Informs Annual Meeting, Seattle, Washington
+  	
+	* 2024 Informs Optimization Society (IOS) Conference, Houston, Texas
+  	
+	* (Poster) 2023 Air Force Office of Scientific Research (AFOSR) Poster Session, Purdue University, Indiana
 
 * **Adaptive Fixed-Step Stochastic Gradient**
-	* 2025 INFORMS Annual Meeting, Atlanta, Georgia
-  	* 2025 International Conference on Monte Carlo Methods and Applications (MCM), Illinois Institute of Technology, Illinois
 
-* **Extending \muP: Spectral Conditions for Feature Learning Across Optimizers**
-  	* (Poster) 2025 Workshop on Optimization for Machine Learning (OPT) held alongside NeurIPS, San Diego, California
-  	* (Poster) 2025 CELS Student Poster Session, Argonne National Laboratory, Lemont, Illinois
+  	* 2025 INFORMS Annual Meeting, Atlanta, Georgia
+  	
+	* 2025 International Conference on Monte Carlo Methods and Applications (MCM), Illinois Institute of Technology, Illinois
+
+* **Extending μP: Spectral Conditions for Feature Learning Across Optimizers**
+  	
+	* (Poster) 2025 Workshop on Optimization for Machine Learning (OPT) held alongside NeurIPS, San Diego, California
+  	
+	* (Poster) 2025 CELS Student Poster Session, Argonne National Laboratory, Lemont, Illinois
+
